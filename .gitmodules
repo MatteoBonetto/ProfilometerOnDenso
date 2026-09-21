@@ -1,6 +1,0 @@
-[submodule "DensoRobot"]
-	path = DensoRobot
-	url = https://github.com/MatteoBonetto/DensoRobot.git
-[submodule "KEYENCE"]
-	path = KEYENCE
-	url = https://github.com/Cupello5/KEYENCE.git

@@ -1,0 +1,29 @@
+{
+    "appParameters": [
+        {
+            "group": "Sensor",
+            "parameters": [
+				{
+                    "name": "ConnectUsingSensorIP",
+                    "value": "1"
+                },
+                {
+                    "name": "SensorIP",
+                    "value": "192.168.2.101"
+                },
+				{
+                    "name": "SensorID",
+                    "value": "163879"
+                },
+				{
+                    "name": "ReceiveTimeout",
+                    "value": "3000000"
+                },
+				{
+                    "name": "AcquisitionTimeout",
+                    "value": "300"
+                }
+            ]
+        }
+    ]
+}

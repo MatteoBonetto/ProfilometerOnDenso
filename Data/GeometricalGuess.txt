@@ -1,0 +1,5 @@
+Attenzione misure rilevate manualmente con goniometro e calibro 
+rilevazione X-Offset [mm]: -190
+Angolo di inclinazione in X del sensore [°]:  0
+Angolo di inclinazione in Y del sensore [°]:  +40
+Angolo di inclinazione in Z del sensore [°]:  -25
